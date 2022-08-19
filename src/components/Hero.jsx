@@ -1,6 +1,6 @@
 import styles from "../style";
 import { bulb } from "../assets";
-import GetStarted from "./GetStarted";
+import Getstarted from "./GetStarted";
 
 const Hero = () => {
   return (
