@@ -17,7 +17,7 @@ const Hero = () => {
             <span className="text-gradient">Initiate</span>{" "}
           </h1>
           <div className="ss:flex hidden md:mr-4 mr-0">
-            <GetStarted />
+            <Getstarted />
           </div>
         </div>
 
@@ -48,7 +48,7 @@ const Hero = () => {
       </div>
 
       <div className={`ss:hidden ${styles.flexCenter}`}>
-        <GetStarted />
+        <Getstarted />
       </div>
     </section>
   );
