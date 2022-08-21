@@ -30,14 +30,10 @@ const Taimeline = () => {
             </div>
             <div className="mt-3 sm:pr-8">
               <h3 className="text-lg font-semibold text-gray-900 dark:text-black fontb">
-                REGISTRATION OPENS
+                22nd August
               </h3>
-              <time className="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">
-                AUGUST 21, 2022
-              </time>
               <p className="text-base font-normal text-gray-500 dark:text-gray-400">
-                Google form will be released you can register the google form by
-                clicking on the Register For Round 1 button.
+               Registration for event begins, along with the submissions for round 1.
               </p>
             </div>
           </li>
@@ -62,14 +58,12 @@ const Taimeline = () => {
             </div>
             <div className="mt-3 sm:pr-8">
               <h3 className="text-lg font-semibold text-gray-900 dark:text-black fontb">
-                ROUND 1
+                28th August
               </h3>
-              <time className="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">
-                AUGUST 28, 2022
-              </time>
+             
               <p className="text-base font-normal text-gray-500 dark:text-gray-400">
-                Online registration will end and we will announce the selected
-                candidates by 30th august
+               Submissions for round 1 closes.
+
               </p>
             </div>
           </li>
@@ -94,14 +88,10 @@ const Taimeline = () => {
             </div>
             <div className="mt-3 sm:pr-8">
               <h3 className="text-lg font-semibold text-gray-900 dark:text-black fontb">
-                ROUND 2
+               4th September
               </h3>
-              <time className="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">
-                SEPTEMBER 4, 2022
-              </time>
               <p className="text-base font-normal text-gray-500 dark:text-gray-400">
-                Once your team is shortlisted, prepare a power point
-                presentation or a physical prototype of your start-up idea
+                Round 2 at auditorium from 10:00 am.
               </p>
             </div>
           </li>
