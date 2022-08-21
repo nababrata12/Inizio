@@ -6,7 +6,7 @@ const Sponsers = () => (
   <section id="sponsers" className={`${styles.flexCenter} my-4`}>
     <div>
       <h2 className="flex-1 font-poppins flex justify-center items-center font-semibold ss:text-[50px] text-[40px] text-white ss:leading-[100.8px] leading-[75px]">
-        OUR SPONSERS
+        OUR SPONSOR
       </h2>
       <div className={`${styles.flexCenter} flex-wrap w-full`}>
         {clients.map((client) => (

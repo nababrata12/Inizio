@@ -2,7 +2,10 @@ import styles from "../style";
 import { arrowUp } from "../assets";
 const Getstarted = () => {
   return (
-    <a href="https://www.instagram.com/ecellnita/" target="_blank">
+    <a
+      href="https://docs.google.com/forms/d/e/1FAIpQLSeuLZRKyxBO0r-NgVWiTGmr8vb7uUu5Ecr-wAaLihXo5zE_gQ/viewform"
+      target="_blank"
+    >
       <div
         className={`${styles.flexCenter} w-[140px] h-[140px] rounded-full bg-blue-gradient p-[2px] cursor-pointer`}
       >
@@ -11,7 +14,7 @@ const Getstarted = () => {
         >
           <div className={`${styles.flexStart} flex-row`}>
             <p className="font-poppins font-medium text-[18px] leading-[23.4px]">
-              <span className="text-gradient">Get</span>
+              <span className="text-gradient">Register</span>
             </p>
             <img
               src={arrowUp}
@@ -21,7 +24,7 @@ const Getstarted = () => {
           </div>
 
           <p className="font-poppins font-medium text-[18px] leading-[23.4px]">
-            <span className="text-gradient">Started</span>
+            <span className="text-gradient">For Round 1</span>
           </p>
         </div>
       </div>

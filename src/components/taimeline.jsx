@@ -36,8 +36,8 @@ const Taimeline = () => {
                 AUGUST 21, 2022
               </time>
               <p className="text-base font-normal text-gray-500 dark:text-gray-400">
-                Google from will be release you can register the google form by
-                clicking Get Started button.
+                Google form will be released you can register the google form by
+                clicking on the Register For Round 1 button.
               </p>
             </div>
           </li>
@@ -68,7 +68,7 @@ const Taimeline = () => {
                 AUGUST 28, 2022
               </time>
               <p className="text-base font-normal text-gray-500 dark:text-gray-400">
-                Online registeration will be end and we will announce selected
+                Online registration will end and we will announce the selected
                 candidates by 30th august
               </p>
             </div>

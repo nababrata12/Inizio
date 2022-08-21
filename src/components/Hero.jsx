@@ -20,10 +20,6 @@ const Hero = () => {
             <Getstarted />
           </div>
         </div>
-
-        <h1 className="font-poppins font-semibold ss:text-[68px] text-[52px] text-white ss:leading-[100.8px] leading-[75px] w-full">
-          INIZIO
-        </h1>
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
           E-Cell NITA is thrilled to provide you the perfect opportunity to
           showcase your entrepreneurial potential and gain exposure to startup
