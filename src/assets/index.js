@@ -28,9 +28,13 @@ import bulb from "./bulb.png";
 import ecell from "./ecell.png";
 import chai from "./7_schai.png";
 import schai from "./chai.png";
+import inizio from "./INIZIO.pdf";
+import guide from "./guide.pdf";
 
 export {
   airbnb,
+  inizio,
+  guide,
   bill,
   schai,
   chai,
