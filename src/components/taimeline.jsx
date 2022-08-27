@@ -58,7 +58,7 @@ const Taimeline = () => {
             </div>
             <div className="mt-3 sm:pr-8">
               <h3 className="text-lg font-semibold text-gray-900 dark:text-black fontb">
-                28th August
+                30th August
               </h3>
              
               <p className="text-base font-normal text-gray-500 dark:text-gray-400">
