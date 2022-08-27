@@ -1,5 +1,5 @@
 import styles from "../style";
-import { bulb } from "../assets";
+import { bulb, inizio } from "../assets";
 import Getstarted from "./Getstarted";
 
 const Hero = () => {
@@ -25,6 +25,19 @@ const Hero = () => {
           showcase your entrepreneurial potential and gain exposure to startup
           ecosystem through the Business Pitch Competition
         </p>
+        <h5
+          className={`text-lg text-white font-bold font-serif ml12   max-w-[470px] mt-5`}
+        >
+          - INIZIO
+        </h5>
+        <a href={inizio} target="_blank" rel="noopener noreferrer">
+          <button
+            type="button"
+            className={`py-4 px-6 font-poppins font-medium text-[18px] text-primary bg-blue-gradient rounded-[10px] mt-8 outline-none ${styles}`}
+          >
+            Download Brochure
+          </button>
+        </a>
       </div>
 
       <div
@@ -33,7 +46,7 @@ const Hero = () => {
         <img
           src={bulb}
           alt="bulb"
-          className="w-[100%] h-[100%] relative z-[5]"
+          className="w-[80%] h-[100%] relative z-[5]"
         />
 
         {/* gradient start */}
